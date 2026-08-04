@@ -29,7 +29,7 @@
     "61560518794261"
   ],
   "developer": [
-    "61573267116639"
+    "61560518794261"
     "61581624596565"
   ],
   "vipuser": [
@@ -46,7 +46,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "≧◉◡◉≦ 🅦🅘🅛🅛🅨🍁🅑𝐎𝐓 (◕‿◕) ",
-  "prefix": "¥",
+  "prefix": ".",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://Christus:voldigo225@cluster0.gykt2by.mongodb.net/?appName=Cluster0",
